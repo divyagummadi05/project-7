@@ -1,3 +1,3 @@
-# project-7
+# project7
 
-this is an assignment 3
+this is a never ending assignment 3
